@@ -15,8 +15,8 @@
     "webpack-merge": "^5.4.0"
   },
   "devDependencies": {
-    "@types/webpack": ">=4",
-    "@types/webpack-dev-server": "^3.11.1",
+    "@types/webpack": ">=4.41.27",
+    "@types/webpack-dev-server": "^3.11.3",
     "chai": "^4.2.0",
     "html-webpack-plugin": "4.x",
     "mocha": "^8.1.3",
